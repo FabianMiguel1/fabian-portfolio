@@ -101,15 +101,14 @@ export default function Hero() {
             <ArrowUpRight size={17} />
           </a>
 
-          <a
-            href="/resume.pdf"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="secondary-button"
-          >
-            Meu currículo
-            <ArrowUpRight size={16} />
-          </a>
+           <a
+        href="/resume.pdf"
+        target="_blank"
+        rel="noopener noreferrer"
+        className="btn-secondary"
+      >
+        Meu currículo
+      </a>
         </motion.div>
 
         <motion.div
